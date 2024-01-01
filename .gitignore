@@ -19,3 +19,8 @@ notebooks/all_data
 notebooks/sky_flat_good_raw
 notebooks/sky_flat_good_working
 notebooks/ast366_f18
+notebooks/combined_bias_100_images.fit.bz2
+notebooks/combined_dark_300.000.fits.bz2
+notebooks/combined_dark_exposure_1000.0.fit.bz2
+notebooks/dark-test-0002d1000.fit.bz2
+notebooks/single_bias_thermoelectric.fit.bz2
